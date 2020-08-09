@@ -18,7 +18,7 @@ I will retrieve the last four years of Stack Overflow Developer Survey Results
 
 ## Results
 
-Detaied of the findings available [here](https://medium.com/@mahajye/stack-overflow-developer-survey-results-explanatory-data-analysis-a6558208727e)
+Detailed of the findings available [here](https://medium.com/@mahajye/stack-overflow-developer-survey-results-explanatory-data-analysis-a6558208727e)
 
 ## Licensing, Authors, Acknowledgements
 The soure of the data [here](https://insights.stackoverflow.com/survey).
